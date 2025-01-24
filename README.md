@@ -1,6 +1,7 @@
 # Mariel Madlene
 
-Olá, eu sou uma desenvolvedora de software com mais de uma década de experiência na área da tecnologia. Adquiri conhecimentos em desenvolvimento web, suporte ao cliente e DevOps ao longo da minha carreira profissional. Atualmente, estou focada em aprimorar minhas habilidades no desenvolvimento web.
+Olá! Sou uma desenvolvedora de software com mais de uma década de experiência na área de tecnologia. Ao longo da minha trajetória profissional, adquiri conhecimentos em desenvolvimento web, suporte ao cliente e práticas de DevOps. Atualmente, estou direcionando meu foco para aprimorar minhas habilidades em DevOps e computação em nuvem. 
+Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e contribuir para projetos inovadores.
 
 ## Conecte-se comigo
 
